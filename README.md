@@ -1,6 +1,6 @@
 # Zone_Vector
 
-### This is a short project that support TCC Product in generating zone maps from a single raster file (CCI or DEM) and converting it to vector format with ESRI shp file.
+### This is a short project that support TCC Product in generating zone maps from a single raster file (VI or DEM) and converting it to vector format with ESRI shp file.
 
 #### Main process includes 
 
